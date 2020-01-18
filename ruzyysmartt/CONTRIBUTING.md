@@ -17,8 +17,8 @@ Note: Updates won't immediately appear once we've merged your PR. We pull in the
 
 If a topic or collection already exists, it will be listed in its respective directory:
 
-- [topics/](https://github.com/github/explore/tree/master/topics)
-- [collections/](https://github.com/github/explore/tree/master/collections)
+- [topics/](https://github.com/ruzyysmartt/explore/branches/master/topics)
+- [collections/](https://github.com/ruzyysmartt/explore/branches/master/collections)
 
 The topic or collection name should match its URL, e.g. `https://github.com/topics/rails` corresponds to the [`topics/rails` directory](https://github.com/github/explore/tree/master/topics/rails).
 
@@ -76,7 +76,7 @@ Drop the code bass with these musically themed repositories.
 
 ---
 
-The [pull request template](./.github/PULL_REQUEST_TEMPLATE.md) also provides guidance on the information you need to include.
+The [pull request template](./.github/ruzyysmartt/PULL_REQUEST_TEMPLATE.md) also provides guidance on the information you need to include.
 
 **Please fill out the pull request template completely.** If you do not fill out the template, your PR will be closed.
 
