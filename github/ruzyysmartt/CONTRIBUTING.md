@@ -17,10 +17,10 @@ Note: Updates won't immediately appear once we've merged your PR. We pull in the
 
 If a topic or collection already exists, it will be listed in its respective directory:
 
-- [topics/](https://github.com/github/explore/tree/master/topics)
-- [collections/](https://github.com/github/explore/tree/master/collections)
+- [topics/](https://github.com/ruzyysmartt/explore/branches/master/topics)
+- [collections/](https://github.com/ruzyysmartt/explore/branches/master/collections)
 
-The topic or collection name should match its URL, e.g. `https://github.com/topics/rails` corresponds to the [`topics/rails` directory](https://github.com/github/explore/tree/master/topics/rails).
+The topic or collection name should match its URL, e.g. `https://github.com/ruzyysmartt/explore/branches/master/topics/rails` corresponds to the [`topics/rails` directory](https://github.com/ruzyysmartt/explore/branches/master/topics/rails).
 
 To make an improvement, please **open a pull request** with your proposed changes:
 
@@ -32,7 +32,7 @@ To update the image, simply replace the image inside the directory for the topic
 
 To update text and links, edit the `index.md` inside the topic or collection's directory. These files are formatted using a combination of [Front Matter](https://jekyllrb.com/docs/frontmatter/) and simple body content.
 
-For **topics**, you'll notice that, in examples like the topic "[algorithm](https://raw.githubusercontent.com/github/explore/master/topics/algorithm/index.md)," data like the its canonical URL, Wikipedia URL, or display name are called out in key-value pairs; while its detailed description is accounted for in the body of the document.
+For **topics**, you'll notice that, in examples like the topic "[algorithm](https://raw.githubusercontent.com/ruzyysmartt/explore/master/topics/algorithm/index.md)," data like the its canonical URL, Wikipedia URL, or display name are called out in key-value pairs; while its detailed description is accounted for in the body of the document.
 
 _/topics/algorithm/index.md_:
 ```
@@ -76,7 +76,7 @@ Drop the code bass with these musically themed repositories.
 
 ---
 
-The [pull request template](./.github/PULL_REQUEST_TEMPLATE.md) also provides guidance on the information you need to include.
+The [pull request template](./.github/ruzyysmartt/PULL_REQUEST_TEMPLATE.md) also provides guidance on the information you need to include.
 
 **Please fill out the pull request template completely.** If you do not fill out the template, your PR will be closed.
 
